@@ -1,0 +1,12 @@
+# Ideas Central Repository - only track ideas/ and templates/
+*
+!ideas/
+!ideas/**
+!templates/
+!templates/**
+!.gitignore
+!README.md
+
+# OS files
+.DS_Store
+Thumbs.db
